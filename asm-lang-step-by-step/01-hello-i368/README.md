@@ -8,6 +8,7 @@ Run
 
 ```
 $ ./hello
+Hello World
 ```
 
 Debug
